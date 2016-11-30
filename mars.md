@@ -1,7 +1,8 @@
 ## GIT Hub training
 ### This is a section about markdown
 
-It has
+It has:
+
 - this
 - that
 - another
